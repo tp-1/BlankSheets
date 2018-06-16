@@ -22,4 +22,4 @@ Some statistics should be on the first page, and maybe some recent pages.
 ### First screen:
 List of written pages uses RecyclerView. This RecyclerView will use an adapter to adapt cursor rows to cards.<br/>
 <b>Card</b> = tiny representation of one morning page entry.
-Card is tied to it's layout using data binding.
+Card is tied to its layout using data binding.
